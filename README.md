@@ -21,4 +21,4 @@ Olá, eu sou o Caio. Obrigado por visitar meu perfil. 😁
 <a href="https://www.linkedin.com/in/caio-dutra-199a3b125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/caiomdutra/caiodutra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caiomdutra/caiomdutra/blob/output/github-contribution-grid-snake.svg)
