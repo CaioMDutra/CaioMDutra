@@ -2,7 +2,7 @@ Olá, eu sou o Caio. Obrigado por visitar meu perfil. 😁
 
 
 - 💻 Atualmente trabalho como analista de dados e performance na Loggi
-- 📚 Estou estudando programação (JavaScript)
+- 📚 Estou estudando programação (JavaScript)(React-Native)
 
 <div align="center">
   <a href="https://github.com/caiomduutra">
